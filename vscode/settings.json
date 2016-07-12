@@ -1,0 +1,26 @@
+// Place your settings in this file to overwrite the default settings
+{
+  // Controls the font family.
+  "editor.fontFamily": "Operator Mono",
+
+  // Controls the font size.
+  "editor.fontSize": 14,
+
+  // Columns at which to show vertical rulers
+  "editor.rulers": [80],
+
+  // The number of spaces a tab is equal to.
+  "editor.tabSize": 2,
+
+  // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
+  "editor.detectIndentation": false,
+
+  // Controls whether the editor should render whitespace characters
+  "editor.renderWhitespace": true,
+
+  // Controls if the diff editor shows changes in leading or trailing whitespace as diffs
+  "diffEditor.ignoreTrimWhitespace": true,
+
+  // When enabled, will trim trailing whitespace when you save a file.
+  "files.trimTrailingWhitespace": true
+}
