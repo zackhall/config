@@ -90,3 +90,7 @@ source $ZSH/oh-my-zsh.sh
 #############
 # add profile to path
 PATH=$PATH:$HOME/bin
+
+# aliases
+alias ll='ls -1hop'
+alias ..="cd .."
