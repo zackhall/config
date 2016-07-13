@@ -1,0 +1,1 @@
+Use [oh-my-zshell](https://github.com/robbyrussell/oh-my-zsh).
